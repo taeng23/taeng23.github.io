@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="https://taeng23.github.io/tag/jekyll/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://taeng23.github.io/" rel="alternate" type="text/html" />
-  <updated>2020-08-23T13:55:06+09:00</updated>
+  <updated>2020-08-23T15:13:46+00:00</updated>
   <id>https://taeng23.github.io/tag/jekyll/feed.xml</id>
 
   
@@ -34,8 +34,8 @@
     <entry>
       <title type="html">Jekyll 강좌(1) - Jekyll 기본</title>
       <link href="https://taeng23.github.io/jekyll-basic" rel="alternate" type="text/html" title="Jekyll 강좌(1) - Jekyll 기본" />
-      <published>2020-06-09T01:40:00+09:00</published>
-      <updated>2020-06-09T01:40:00+09:00</updated>
+      <published>2020-06-08T16:40:00+00:00</published>
+      <updated>2020-06-08T16:40:00+00:00</updated>
       <id>https://taeng23.github.io/jekyll-basic</id>
       <content type="html" xml:base="https://taeng23.github.io/jekyll-basic">&lt;p&gt;이 글은 jekyll basic 입니다.!!&lt;/p&gt;</content>
 
